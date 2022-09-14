@@ -7,3 +7,5 @@ movimentação: W - cima;
 ataque: J;
 
 O ataque é feito quando o player estiver de frente ao inimigo 
+
+Descompactar o arquivo Stranger Place
